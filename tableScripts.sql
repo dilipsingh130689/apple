@@ -6,5 +6,10 @@ create table phine
 create tble3
 
 
-crate table tbale2
+
+
+
+create table tbale5
+
+carte table table6
  ...
